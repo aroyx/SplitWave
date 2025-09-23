@@ -102,7 +102,7 @@ Totem readme.
 
 Lastly I will like to again thank hackclub for giving me such awesome
 highschool years. Had a heck lot of fun all these years and had a blast making
-my last [ysws](https://ysws.hackclub.com/) project. If you are (or know someone) younger than 18 or a
+my ~last~ [ysws](https://ysws.hackclub.com/) project. If you are (or know someone) younger than 18 or a
 highschooler who is tech enthusiast then checkout hackclub it is really cool!
 
 ## License
