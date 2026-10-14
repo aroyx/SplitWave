@@ -1343,3 +1343,21 @@ too getting out there taking help, helping others and having fun with everyone.
 All of the journal (since 25th July) made with 🩷 using SplitWave.
 
 *Total Time Till Now: A lot, looking back...not so much*
+
+## 14th October 2026 - The Return
+
+My keyboard has served me more than a year now. It has worked fanstastically. But now. It is not working anymore. It is time for a change. I will fix my previous mistakes. Will try so salvage the keyboard's parts as best as I can. I will make a new keyboard again. From scratch. This journal will help me a lot.
+
+I am thankful I made this journal.
+
+The reason for my keyboard not working:
+- The MCU gave up. IDK why, I thought it was a battery problem. But it is not. I changed the batteries but it didn't work.
+- The software also never changed. I mean it never worked if I changed the values. So I will again make the zmk software from scratch using the new ZMK!
+
+Things I got to do:
+- Now I am 19 and can't get any more hackclub funding. I need to calculate the total price of things I need.
+- Re-build the entire BOM
+- Make the prototype
+- Propose for a grant from college.
+- Buy the things
+- Build it
