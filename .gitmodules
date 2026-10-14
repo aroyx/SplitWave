@@ -1,0 +1,4 @@
+[submodule "zmk-config-splitwave"]
+	path = zmk-config-splitwave
+	url = https://github.com/aroyx/zmk-config-splitwave
+	branch = v2
